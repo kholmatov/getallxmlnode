@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#@kholmatov
 from lxml import etree
 import sys,re, json
 xml_file = sys.argv[1]
