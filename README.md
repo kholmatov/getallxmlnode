@@ -2,7 +2,7 @@
 Python script for get all xml node and attribute xpath
 
 Run example in shell:
-<pre>Python getnodepath.py yourxmlfile.xml</pre>
+<pre>Python getnodexpath.py yourxmlfile.xml</pre>
 
 script return JSON array:
 
