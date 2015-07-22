@@ -22,7 +22,7 @@ script return JSON array:
         "/multivectorautofeed/companies",
         "/multivectorautofeed/companies/company",
         "/multivectorautofeed/companies/company/companyid",
-        "/multivectorautofeed/companies/company/name",
+        "/multivectorautofeed/companies/company/name"
     ]
 }
 </pre>
