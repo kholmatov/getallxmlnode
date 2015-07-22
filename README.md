@@ -26,6 +26,6 @@ script return JSON array:
     ]
 }
 </pre>
-* Need Module:  
-lxml for Python 3.x
+* Need install module:  
+<pre>lxml for Python 3.x</pre>
 
