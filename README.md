@@ -1,7 +1,7 @@
 # getallxmlnode
 Python script for get all xml node and attribute xpath
 
-expamle:
+Run expamle in shell:
 <pre>Python getnodepath.py yourxmlfile.xml</pre>
 
 script return JSON array:
